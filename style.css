@@ -989,7 +989,7 @@ a.kboard-default-button-small, input.kboard-default-button-small, button.kboard-
         color: #014da1;
     }
     .fusion-secondary-header .fusion-alignleft, .fusion-secondary-header .fusion-alignright { /* Removed rightside top secondary menu */
-        display: none;
+        display: none !important;
     }
     .fusion-secondary-header .fusion-row:before { /* Create blue bar */
         height: 10px;
